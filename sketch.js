@@ -10,6 +10,7 @@ let yRaqueteD = 150;
 let largRaqueteD = 10;
 let altRaqueteD = 90;
 
+
 //Váriaveis do oponente
 let xRaqueteE = 585;
 let yRaqueteE = 150;
